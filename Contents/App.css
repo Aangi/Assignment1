@@ -1,3 +1,6 @@
 /* custom css goes here */
 #logo{float:left}
 #Mypic{float:right}
+#Book{float: right;margin-right: 200px}
+#Travelling{float: right;margin-right: 200px;margin-left: 15px}
+#Painting{float: right;margin-right: 200px}
